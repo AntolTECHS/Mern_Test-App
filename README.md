@@ -5,10 +5,6 @@ This project demonstrates **comprehensive testing and debugging strategies** inc
 
 #Screenshots
 ![App Home](screenshots/Home.png)
-![Report Bug](screenshots/form.png)
-![Jest Coverage Report](screenshots/coverage.png)
-![Cypress Test Runner](screenshots/cypress.png)
-
 ---
 
 ## **Table of Contents**
