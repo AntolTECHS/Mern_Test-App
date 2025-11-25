@@ -190,3 +190,7 @@ Comprehensive unit, integration, and end-to-end testing
 Proper debugging techniques for both frontend and backend
 Error handling in React and Express
 Well-structured and maintainable code
+
+##License
+
+This project is licensed under the MIT License.
